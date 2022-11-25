@@ -1,14 +1,23 @@
 <template>
-    <main class="container mx-auto p-4 md:pt-8 md:px-56">
+    <main class="container mx-auto p-8 md:pt-8 md:px-56 text-sm md:text-base">
         <section class="mb-4">
-            <h1 class="text-4xl">{{ resume.basics.name }} - {{ resume.basics.label }}</h1>
+            <h1 class="flex flex-col">
+                <span class="text-4xl">
+                    {{ resume.basics.name }}
+                </span>
+                <span class="text-lg">
+                    {{ resume.basics.label }}
+                </span>
+            </h1>
         </section>
         <hr class="mb-4" />
         <resume-section title="summary">
-            {{ resume.basics.summary }}
+            <span>
+                {{ resume.basics.summary }}
+            </span>
         </resume-section>
         <resume-section title="experience">
-            <ul class="list-disc mb-4" v-for="work in resume.work" :key="String(work.url)">
+            <ul class="mb-4" v-for="work in resume.work" :key="String(work.url)">
                 <li>
                     <h3 class="mb-1 text-lg">
                         <span class="font-bold">
@@ -23,7 +32,7 @@
                         </span>
                         <span class="text-sm"> ({{ work.startDate }} - {{ work.endDate }}) </span>
                     </h3>
-                    <ul>
+                    <ul class="list-disc">
                         <li v-for="highlight in work.highlights">
                             {{ highlight }}
                         </li>

@@ -6,10 +6,10 @@
             <hr class="w-full mb-4" />
             <ul class="flex items-center w-full gap-4">
                 <li class="cursor-pointer">
-                    <a href="https://medium.com/@mhdi_kr">Blog</a>
+                    <a href="/resume">Résumé</a>
                 </li>
                 <li class="cursor-pointer">
-                    <a href="/resume">Résumé</a>
+                    <a href="https://medium.com/@mhdi_kr">Blog</a>
                 </li>
                 <li class="cursor-pointer">
                     <a href="https://github.com/Mhdi-kr">GitHub</a>
@@ -18,3 +18,16 @@
         </section>
     </header>
 </template>
+
+<script lang="ts" setup>
+import { useHead } from '@vueuse/head'
+useHead({
+    title: "Mahdi Karimi | Home",
+    meta: [
+        {
+            name: "description",
+            content: "",
+        },
+    ],
+});
+</script>
