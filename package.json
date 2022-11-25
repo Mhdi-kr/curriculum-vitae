@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vue-tsc && vite-ssg build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "release": "gh-pages -d dist"
   },
   "dependencies": {
     "@xii/icon": "^1.1.0",
