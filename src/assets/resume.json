@@ -1,0 +1,200 @@
+{
+    "basics": {
+        "name": "Mahdi Karimi",
+        "label": "Software Engineer",
+        "image": "",
+        "email": "mhdi_kr@outlook.com",
+        "phone": null,
+        "url": "https://mahdikarimi.com",
+        "summary": "I am a competent engineer with rich hands-on experience in Software engineering. My greatest strength is my commitment to learning and finding better solutions to overcome challenges. I aimed to further my experience in software craftsmanship and architecture design.",
+        "location": {
+            "address": "Tehran, Iran",
+            "postalCode": null,
+            "city": "Tehran",
+            "countryCode": "IR",
+            "region": "Iran"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "Mhdi_kr",
+                "url": "https://twitter.com/Mhdi_kr"
+            },
+            {
+                "network": "Linkedin",
+                "username": "Mhdi-kr",
+                "url": "https://www.linkedin.com/in/Mhdi-kr/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Alibaba Travels Co.",
+            "position": "Software Engineer",
+            "url": "https://www.alibaba.ir/hotel/",
+            "startDate": "APRIL 2021",
+            "endDate": "PRESENT",
+            "summary": "Alibaba Travels Co. is the pioneer of online travel services in Iran. It offers domestic and international flight, train, bus ticketing, hotel, tours and accommodation reservations.",
+            "highlights": [
+                "Alibaba academy mentorship",
+                "Developed a versatile golang framework helping the company quickly integrate 10+ hotel data providers saving large amount of resources and time",
+                "Refactored large scale hotel central reservation system (CRS) within 4 months from vue 2 and webpack to vue 3, typescript and vite",
+                "Maintained and refactored Nuxt Back office panels using vue 2",
+                "Refactored Alibaba.ir/hotel views with typescript and vue3",
+                "Contributed on professional career path of company/'s frontend engineers",
+                "Contributed on company/'s OSS projects such as Vuilerplate",
+                "Developed visualization tools to improve DX and onboarding processes",
+                "Contribution and maintenance of alibaba.ir/hotel frontend website using Vue 3 and typescript"
+            ]
+        },
+        {
+            "name": "Snapp! Market",
+            "position": "Software Engineer",
+            "url": "https://snapp.market/",
+            "startDate": "FEBRUARY 2021",
+            "endDate": "OCTOBER 2022",
+            "summary": "Snapp! Market is an online grocery platform providing a wide range of assortment from fresh fruits and vegetables to beauty and wellness products.",
+            "highlights": [
+                "Practiced requirements engineering and research and development on multiple IoT projects",
+                "Developed esp8266 hardware firmware using C++ and Arduino libraries",
+                "Developed required infrastructure i.e. server and client panels for needed IoT management systems",
+                "Worked directly with other engineers building production-ready PCBs and physical products very rapidly"
+            ]
+        },
+        {
+            "name": "Freelance",
+            "position": "Web Developer",
+            "url": null,
+            "startDate": "2018",
+            "endDate": "APRIL 2021",
+            "summary": "I did freelance web development for numerous domestic and foreign clients",
+            "highlights": [
+                "Created and maintained multiple wordpress projects",
+                "Advised multiple clients on single page applications and their bushiness websites",
+                "Developed telegram bots helping bushiness reach more customers faster and easier",
+                "Developed numerous e-commerce projects for multiple clients",
+                "Developed a dynamic restaurant digital signage system"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "BNUT - Babol Noshirvani University of Technology",
+            "url": "https://institution.com/",
+            "area": "Computer Engineering",
+            "studyType": "Bachelor of Science",
+            "startDate": "2019",
+            "endDate": "PRESENT",
+            "score": null,
+            "courses": null
+        }
+    ],
+    "publications": [
+        {
+            "name": "Technical Blog Posts",
+            "publisher": "Medium",
+            "releaseDate": null,
+            "url": "https://medium.com/@mhdi_kr",
+            "summary": "I write technical and non technical blogs posts and share them with the world on medium"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Software Engineering",
+            "level": null,
+            "keywords": [
+                "Semantic HTML5, CSS3, JavaScript (ECMAScript 6+)",
+                "TailwindCSS, BulmaCSS and BootstrapCSS",
+                "TypeScript",
+                "Vue2, Vue3 and Nuxt",
+                "React.js, Next.js",
+                "Software Engineering",
+                "Continuous Integration, Continuous Development",
+                "Docker, Kubernetes",
+                "Agile",
+                "Golang"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Farsi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Bilingual proficiency"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Creating beautiful, responsive, fast and accessible UIs",
+            "href": "",
+            "keywords": []
+        },
+        {
+            "name": "Reading technical books and writing my thoughts",
+            "href": "",
+            "keywords": []
+        },
+        {
+            "name": "Building computers",
+            "href": "",
+            "keywords": []
+        },
+        {
+            "name": "Embedded programming, arduinos and raspberry pies",
+            "href": "",
+            "keywords": []
+        },
+        {
+            "name": "Renewable energy, Solar panels and automated houses",
+            "href": "",
+            "keywords": []
+        }
+    ],
+    "projects": [
+        {
+            "name": "Open Source Projects",
+            "description": "I spent my freetimes developing fun and practical projects that can teach me new things about new subjects",
+            "highlights": [
+                "VSCode webvue extension",
+                "Wireguard Insights"
+            ],
+            "keywords": [
+                "HTML"
+            ],
+            "startDate": "null",
+            "endDate": "null",
+            "url": "https://github.com/Mhdi-kr",
+            "roles": [],
+            "entity": "Entity",
+            "type": "application"
+        },
+        {
+            "name": "Radio Upstream Podcast",
+            "description": "Description…",
+            "highlights": [],
+            "keywords": [],
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "url": "https://www.radioupstream.com",
+            "roles": [],
+            "entity": "Entity",
+            "type": "application"
+        }
+    ]
+}
