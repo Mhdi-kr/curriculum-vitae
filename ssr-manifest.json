@@ -14,25 +14,25 @@
   "node_modules/.pnpm/vite-ssg@0.22.0_l2g5ynjahgwue3azjgzakb3rfe/node_modules/vite-ssg/dist/index.mjs": [],
   "src/style.css": [],
   "\u0000vite/preload-helper": [],
-  "\u0000plugin-vue:export-helper": [],
-  "src/pages/index.vue": [],
+  "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [],
   "../../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [],
+  "\u0000plugin-vue:export-helper": [],
   "src/App.vue": [],
   "src/main.ts": [],
   "index.html": [],
   "src/components/ResumeSection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/resume.fd67225c.js"
+    "/assets/resume.7ef9be61.js"
   ],
   "src/assets/resume.json": [
-    "/assets/resume.fd67225c.js"
+    "/assets/resume.7ef9be61.js"
   ],
   "src/pages/resume.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/resume.fd67225c.js"
+    "/assets/resume.7ef9be61.js"
   ],
   "src/pages/resume.vue": [
-    "/assets/resume.fd67225c.js"
+    "/assets/resume.7ef9be61.js"
   ],
   "src/pages/about.vue": [
-    "/assets/about.a1e66f73.js"
+    "/assets/about.085ee00f.js"
   ]
 }
