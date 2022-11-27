@@ -6,7 +6,7 @@
         "email": "mhdi_kr@outlook.com",
         "phone": null,
         "url": "https://mahdikarimi.com",
-        "summary": "I am a competent engineer with rich hands-on experience in Software engineering. My greatest strength is my commitment to learning and finding better solutions to overcome challenges. I aimed to further my experience in software craftsmanship and architecture design.",
+        "summary": "I am a responsible and competent engineer with +3 years of rich hands-on experience in software engineering. My greatest strength is not giving up on problems and my will for finding solutions for them. As human beings we are here to grow, and in my professional work I'm eager to learn and will always try to help others grow with me.",
         "location": {
             "address": "Tehran, Iran",
             "postalCode": null,
@@ -36,7 +36,6 @@
             "endDate": "PRESENT",
             "summary": "Alibaba Travels Co. is the pioneer of online travel services in Iran. It offers domestic and international flight, train, bus ticketing, hotel, tours and accommodation reservations.",
             "highlights": [
-                "Alibaba academy mentorship",
                 "Developed a versatile golang framework helping the company quickly integrate 10+ hotel data providers saving large amount of resources and time",
                 "Refactored large scale hotel central reservation system (CRS) within 4 months from vue 2 and webpack to vue 3, typescript and vite",
                 "Maintained and refactored Nuxt Back office panels using vue 2",
@@ -79,7 +78,7 @@
     ],
     "volunteer": [
         {
-            "organization": "Organization",
+            "organization": "Alibaba Academy",
             "position": "Volunteer",
             "url": "https://organization.com/",
             "startDate": "2012-01-01",
@@ -116,16 +115,19 @@
             "name": "Software Engineering",
             "level": null,
             "keywords": [
+                "Git version control",
                 "Semantic HTML5, CSS3, JavaScript (ECMAScript 6+)",
                 "TailwindCSS, BulmaCSS and BootstrapCSS",
                 "TypeScript",
                 "Vue2, Vue3 and Nuxt",
                 "React.js, Next.js",
                 "Software Engineering",
+                "ELK stack, prometheus",
                 "Continuous Integration, Continuous Development",
                 "Docker, Kubernetes",
-                "Agile",
-                "Golang"
+                "Node.js",
+                "Golang",
+                "Agile and scrum"
             ]
         }
     ],
@@ -168,10 +170,10 @@
     ],
     "projects": [
         {
-            "name": "Open Source Projects",
-            "description": "I spent my freetimes developing fun and practical projects that can teach me new things about new subjects",
+            "name": "Open Source Projects and Contributions",
+            "description": "I spend my free times developing fun and practical projects that can teach me new things about new subjects",
             "highlights": [
-                "VSCode webvue extension",
+                "VSCode Webvue Extension",
                 "Wireguard Insights"
             ],
             "keywords": [

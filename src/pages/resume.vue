@@ -53,6 +53,18 @@
                 </li>
             </ul>
         </resume-section>
+        <resume-section title="volunteer">
+            <ul>
+                <li v-for="vol in resume.volunteer">
+                    <span class="font-bold mb-1">{{ vol.organization }}</span>
+                    <ul class="list-disc">
+                        <li v-for="highlight in vol.highlights">
+                            {{ highlight }}
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </resume-section>
         <resume-section title="publications">
             <ul>
                 <li class="flex flex-col" v-for="publication in resume.publications">
