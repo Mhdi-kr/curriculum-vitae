@@ -21,18 +21,18 @@
   "src/main.ts": [],
   "index.html": [],
   "src/components/ResumeSection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/resume.7ef9be61.js"
+    "/assets/resume.6e79767e.js"
   ],
   "src/assets/resume.json": [
-    "/assets/resume.7ef9be61.js"
+    "/assets/resume.6e79767e.js"
   ],
   "src/pages/resume.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/resume.7ef9be61.js"
+    "/assets/resume.6e79767e.js"
   ],
   "src/pages/resume.vue": [
-    "/assets/resume.7ef9be61.js"
+    "/assets/resume.6e79767e.js"
   ],
   "src/pages/about.vue": [
-    "/assets/about.085ee00f.js"
+    "/assets/about.9b093043.js"
   ]
 }
