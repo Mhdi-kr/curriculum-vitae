@@ -56,10 +56,14 @@
         <resume-section title="volunteer">
             <ul>
                 <li v-for="vol in resume.volunteer">
-                    <span class="font-bold mb-1">{{ vol.organization }}</span>
+                    <div>
+                        <span class="font-bold mb-1">{{ vol.organization }}</span>
+                        <span class="text-sm"> ({{ vol.startDate }} - {{ vol.endDate }}) </span>
+                    </div>
+                    <span>{{ vol.summary }}</span>
                     <ul class="list-disc">
                         <li v-for="highlight in vol.highlights">
-                            {{ highlight }}
+                            <span>{{ highlight }}</span>
                         </li>
                     </ul>
                 </li>

@@ -39,9 +39,9 @@
                 "Developed a versatile golang framework helping the company quickly integrate 10+ hotel data providers saving large amount of resources and time",
                 "Refactored large scale hotel central reservation system (CRS) within 4 months from vue 2 and webpack to vue 3, typescript and vite",
                 "Maintained and refactored Nuxt Back office panels using vue 2",
-                "Refactored Alibaba.ir/hotel views with typescript and vue3",
-                "Contributed on professional career path of company/'s frontend engineers",
-                "Contributed on company/'s OSS projects such as Vuilerplate",
+                "Refactored Alibaba.ir hotel views with typescript and vue3",
+                "Contributed on professional career path of company's frontend engineers",
+                "Contributed on company's OSS projects such as Vuilerplate",
                 "Developed visualization tools to improve DX and onboarding processes",
                 "Contribution and maintenance of alibaba.ir/hotel frontend website using Vue 3 and typescript"
             ]
@@ -81,12 +81,10 @@
             "organization": "Alibaba Academy",
             "position": "Volunteer",
             "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Awarded 'Volunteer of the Month'"
-            ]
+            "startDate": "November 2022",
+            "endDate": "PRESENT",
+            "summary": "Talks, mentorship and teaching for +5 eager developers and starters to perform better across teams or job candidates to land a job at the company",
+            "highlights": []
         }
     ],
     "education": [
@@ -116,15 +114,16 @@
             "level": null,
             "keywords": [
                 "Git version control",
-                "Semantic HTML5, CSS3, JavaScript (ECMAScript 6+)",
+                "Semantic HTML5, CSS3",
                 "TailwindCSS, BulmaCSS and BootstrapCSS",
-                "TypeScript",
-                "Vue2, Vue3 and Nuxt",
+                "JavaScript (ECMAScript 6+), TypeScript",
+                "Vue2, Vue3 and Nuxt.js",
                 "React.js, Next.js",
                 "Software Engineering",
+                "mongodb, postgresql, influxdb",
                 "ELK stack, prometheus",
                 "Continuous Integration, Continuous Development",
-                "Docker, Kubernetes",
+                "Docker, Kubernetes and containerization",
                 "Node.js",
                 "Golang",
                 "Agile and scrum"
