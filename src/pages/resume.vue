@@ -43,7 +43,7 @@
         <resume-section title="projects">
             <ul>
                 <li class="flex flex-col mb-1" v-for="project in resume.projects">
-                    <span class="font-bold">{{ project.name }}</span>
+                    <a :href="project.url" class="font-bold">{{ project.name }}</a>
                     <span>{{ project.description }}</span>
                     <ul class="list-disc">
                         <li v-for="highlight in project.highlights">

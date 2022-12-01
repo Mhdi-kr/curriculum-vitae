@@ -6,7 +6,7 @@
         "email": "mhdi_kr@outlook.com",
         "phone": null,
         "url": "https://mahdikarimi.com",
-        "summary": "I am a responsible and competent engineer with +3 years of rich hands-on experience in software engineering. My greatest strength is not giving up on problems and my will for finding solutions for them. As human beings we are here to grow, and in my professional work I'm eager to learn and will always try to help others grow with me.",
+        "summary": "I am a responsible and competent engineer with +3 years of rich hands-on experience in software engineering. My greatest strength is not giving up on problems and my will for finding solutions for them. As human beings we are here to grow, and in my professional work I'm eager to learn and will always try to help others grow alongside me.",
         "location": {
             "address": "Tehran, Iran",
             "postalCode": null,
@@ -36,14 +36,11 @@
             "endDate": "PRESENT",
             "summary": "Alibaba Travels Co. is the pioneer of online travel services in Iran. It offers domestic and international flight, train, bus ticketing, hotel, tours and accommodation reservations.",
             "highlights": [
-                "Developed a versatile golang framework helping the company quickly integrate 10+ hotel data providers saving large amount of resources and time",
-                "Refactored large scale hotel central reservation system (CRS) within 4 months from vue 2 and webpack to vue 3, typescript and vite",
-                "Maintained and refactored Nuxt Back office panels using vue 2",
-                "Refactored Alibaba.ir hotel views with typescript and vue3",
-                "Contributed on professional career path of company's frontend engineers",
-                "Contributed on company's OSS projects such as Vuilerplate",
-                "Developed visualization tools to improve DX and onboarding processes",
-                "Contribution and maintenance of alibaba.ir/hotel frontend website using Vue 3 and typescript"
+                "Developed Golang Software helping the company rapidly integrate 10+ data providers saving large amount of resources and time",
+                "Refactored large scale hotel central reservation system (CRS) within 3 months (from webpack, JS and vue2 to vite, TS and vue3)",
+                "Maintained and refactored several back office panels and javascript/vue2 projects",
+                "Contribution and maintenance of alibaba.ir/hotel frontend website using Vue 3 and typescript",
+                "Developed visualization tools to improve DX and onboarding processes for other developers"
             ]
         },
         {
@@ -56,7 +53,7 @@
             "highlights": [
                 "Practiced requirements engineering and research and development on multiple IoT projects",
                 "Developed esp8266 hardware firmware using C++ and Arduino libraries",
-                "Developed required infrastructure i.e. server and client panels for needed IoT management systems",
+                "Developed required infrastructure i.e. servers and client panels for needed IoT management systems",
                 "Worked directly with other engineers building production-ready PCBs and physical products very rapidly"
             ]
         },
@@ -68,10 +65,9 @@
             "endDate": "APRIL 2021",
             "summary": "I did freelance web development for numerous domestic and foreign clients",
             "highlights": [
-                "Created and maintained multiple wordpress projects",
-                "Advised multiple clients on single page applications and their bushiness websites",
-                "Developed telegram bots helping bushiness reach more customers faster and easier",
-                "Developed numerous e-commerce projects for multiple clients",
+                "Maintained multiple wordpress websites",
+                "Advised multiple clients on single page applications and their business websites",
+                "Developed telegram bots helping business reach more customers faster and easier while lowering their costs",
                 "Developed a dynamic restaurant digital signage system"
             ]
         }
@@ -84,7 +80,10 @@
             "startDate": "November 2022",
             "endDate": "PRESENT",
             "summary": "Talks, mentorship and teaching for +5 eager developers and starters to perform better across teams or job candidates to land a job at the company",
-            "highlights": []
+            "highlights": [
+                "Contributed on professional career path of company's frontend engineers",
+                "Contributed on company's OSS projects such as vuilerplate"
+            ]
         }
     ],
     "education": [
@@ -157,7 +156,7 @@
             "keywords": []
         },
         {
-            "name": "Embedded programming, arduinos and raspberry pies",
+            "name": "Embedded programming, Arduinos and raspberry pies",
             "href": "",
             "keywords": []
         },
@@ -187,12 +186,12 @@
         },
         {
             "name": "Radio Upstream Podcast",
-            "description": "Description…",
+            "description": "I occasionally record podcast sessions (especially with my colleagues) to talk about our hands-on experiences and hard-to-grasp concepts in software engineering.",
             "highlights": [],
             "keywords": [],
             "startDate": "2019-01-01",
             "endDate": "2021-01-01",
-            "url": "https://www.radioupstream.com",
+            "url": "https://t.me/+y0kqSgMLP4NkZWY8",
             "roles": [],
             "entity": "Entity",
             "type": "application"
