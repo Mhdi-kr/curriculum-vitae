@@ -98,8 +98,11 @@
             </ul>
         </resume-section>
         <resume-section title="skills">
-            <ul>
-                <li v-for="skill in resume.skills[0].keywords">{{ skill }}</li>
+            <ul v-for="skill in resume.skills" class="mb-2">
+                <h4 class="font-bold">
+                    {{ skill.name }}
+                </h4>
+                <li v-for="keyword in skill.keywords">{{ keyword }}</li>
             </ul>
         </resume-section>
         <resume-section title="interests">

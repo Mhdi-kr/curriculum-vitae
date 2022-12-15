@@ -100,7 +100,7 @@
     ],
     "publications": [
         {
-            "name": "Technical Blog Posts",
+            "name": "Medium Blog Posts",
             "publisher": "Medium",
             "releaseDate": null,
             "url": "https://medium.com/@mhdi_kr",
@@ -109,24 +109,35 @@
     ],
     "skills": [
         {
-            "name": "Software Engineering",
+            "name": "General",
             "level": null,
             "keywords": [
                 "Git version control",
-                "Semantic HTML5, CSS3",
+                "Continuous Integration, Continuous Development",
+                "Agile and scrum"
+            ]
+        },
+        {
+            "name": "Frontend Development",
+            "level": null,
+            "keywords": [
+                "Semantic HTML 5, CSS 3",
                 "TailwindCSS, BulmaCSS and BootstrapCSS",
                 "JavaScript (ECMAScript 6+), TypeScript",
                 "Unit, component and integration testing",
-                "Vue2, Vue3 and Nuxt.js",
-                "React.js, Next.js",
-                "Software Engineering",
-                "mongodb, postgresql, influxdb",
-                "ELK stack, prometheus",
-                "Continuous Integration, Continuous Development",
-                "Docker, Kubernetes and containerization",
+                "Vue 2, Vue 3 and Nuxt.js",
+                "React.js, Next.js"
+            ]
+        },
+        {
+            "name": "Backend Development",
+            "level": null,
+            "keywords": [
                 "Node.js",
                 "Golang",
-                "Agile and scrum"
+                "Docker, Kubernetes",
+                "MongoDB, Postgresql, influxdb",
+                "ELK stack, prometheus"
             ]
         }
     ],
@@ -172,6 +183,7 @@
             "name": "Open Source Projects and Contributions",
             "description": "I spend my free times developing fun and practical projects that can teach me new things about new subjects",
             "highlights": [
+                "Pomodomore",
                 "VSCode Webvue Extension",
                 "Wireguard Insights"
             ],
